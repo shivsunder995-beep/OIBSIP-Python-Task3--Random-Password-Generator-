@@ -12,7 +12,6 @@ This project generates strong and random passwords using Python's built-in **`ra
 
 It is created for beginners to learn Python programming, randomization, string handling, and basic user input.
 
-
 =======================
 ## 📌 Features
 =======================
@@ -71,6 +70,7 @@ X@7kP!2mQ#8z
 ====================
 ## 👨‍💻 Author
 ====================
+
 **SHIV SUNDAR MAURYA**
 
 ===============================
