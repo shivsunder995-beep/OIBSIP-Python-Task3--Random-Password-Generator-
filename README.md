@@ -1,6 +1,6 @@
-==================================
+
 # 🔐 Random Password Generator
-===================================
+
 
 ## 🏢 Python Programming Internship Project
 
@@ -12,9 +12,9 @@ This project generates strong and random passwords using Python's built-in **`ra
 
 It is created for beginners to learn Python programming, randomization, string handling, and basic user input.
 
-=======================
+
 ## 📌 Features
-=======================
+
 * ✅ Generate random passwords
 * ✅ User can choose password length
 * ✅ Uses letters, numbers, and special characters
@@ -23,16 +23,17 @@ It is created for beginners to learn Python programming, randomization, string h
 * ✅ Uses Python built-in modules
 * ✅ No external libraries required
 
-===========================
-## 🛠️ Technologies Used
-===========================
+
+## 🛠️ Technologies Used :
+
 * 🐍 Python
 * 🔤 `string` Module
 * 🎲 `random` Module
 
-======================
-## 📁 Project Files
-======================
+
+
+## 📁 Project Files :
+
 
 Random-Password-Generator/
 
@@ -43,9 +44,8 @@ Random-Password-Generator/
 │── README.md
 
 
-========================
-## 🔑 Example Output
-=========================
+
+## 🔑 Example Output :
 
 🔐 RANDOM PASSWORD GENERATOR
 
@@ -57,9 +57,10 @@ X@7kP!2mQ#8z
 > Every generated password is different because characters are selected randomly.
 
 
-=======================
+
 ## 🎯 What I Learned
-=======================
+
+
 * 🐍 Python Programming
 * 🔤 String Handling
 * 🎲 Random Number and Character Generation
@@ -67,15 +68,18 @@ X@7kP!2mQ#8z
 * 🔐 Basic Password Generation
 * 🧩 Basic Python Project Development
 
-====================
+
+
 ## 👨‍💻 Author
-====================
+
 
 **SHIV SUNDAR MAURYA**
 
-===============================
-## ⭐ If You Like This Project
-===============================
+
+
+## ⭐ If You Like This Project :
+
+
 If you found this project useful, please:
 
 ⭐ Star the repository
